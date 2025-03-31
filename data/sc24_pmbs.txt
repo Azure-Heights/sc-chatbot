@@ -1,0 +1,145 @@
+__Close
+
+  * [Full Program](https://sc24.conference-program.com/)
+  * [My Schedule](https://sc24.conference-program.com/my-agenda/)
+  * [Happening Now](https://sc24.conference-program.com/happening-now/)
+  * [Contributors](https://sc24.conference-program.com/contributors/)
+  * [Attendees](https://sc24.conference-program.com/attendees/)
+  * [Organizations](https://sc24.conference-program.com/organizations/)
+  * [Map](https://sc24.conference-program.com/map/)
+  * [Posters](https://sc24.conference-program.com/posters/)
+  * [Jobs](https://sc24.conference-program.com/jobs/)
+  * [Support](https://sc24.conference-program.com/support/)
+  * [Search](https://sc24.conference-program.com/search-program/)
+
+  * [ Preferences  ](https://sc24.conference-program.com/settings/)
+
+[SC24 Home](https://sc24.supercomputing.org/)
+
+[](https://sc24.conference-program.com/)
+
+### [SC24 Schedule](https://sc24.conference-program.com/)
+
+### Session
+
+  * [Full Program](https://sc24.conference-program.com/)
+  * [My Schedule](https://sc24.conference-program.com/my-agenda/)
+  * [Happening Now](https://sc24.conference-program.com/happening-now/)
+  * [Contributors](https://sc24.conference-program.com/contributors/)
+  * [Attendees](https://sc24.conference-program.com/attendees/)
+  * [Organizations](https://sc24.conference-program.com/organizations/)
+  * [Map](https://sc24.conference-program.com/map/)
+  * [Posters](https://sc24.conference-program.com/posters/)
+  * [Jobs](https://sc24.conference-program.com/jobs/)
+  * [Support](https://sc24.conference-program.com/support/)
+  * [Search](https://sc24.conference-program.com/search-program/)
+
+  * [ ](https://sc24.conference-program.com/settings/)
+
+[ ]()
+
+# Session
+
+[Full Schedule](https://sc24.conference-program.com/?post_type=page&p=10) ·
+[Contributors](https://sc24.conference-program.com/?post_type=page&p=11) ·
+[Organizations](https://sc24.conference-program.com/?post_type=page&p=12) ·
+[Search Program](https://sc24.conference-program.com/?post_type=page&p=17) ·
+[My Schedule](https://sc24.conference-program.com/?post_type=page&p=18)
+
+More…
+
+[Search Program](https://sc24.conference-program.com/?post_type=page&p=17)[My
+Schedule](https://sc24.conference-program.com/?post_type=page&p=18)
+
+Workshop: PMBS24: The 15th International Workshop on Performance Modeling,
+Benchmarking, and Simulation of High-Performance Computer Systems
+
+Session Chairs
+
+[Simon Hammond](https://sc24.conference-
+program.com/?post_type=page&p=13&uid=691553)
+
+[National Nuclear Security Administration (NNSA)](https://sc24.conference-
+program.com/?post_type=page&p=16&inst=12402101237918350088)
+
+[Steven A. Wright](https://sc24.conference-
+program.com/?post_type=page&p=13&uid=262863)
+
+[University of York, England](https://sc24.conference-
+program.com/?post_type=page&p=16&inst=10061698975685396687)
+
+[Sascha Hunold](https://sc24.conference-
+program.com/?post_type=page&p=13&uid=376863)
+
+[Technical University of Vienna](https://sc24.conference-
+program.com/?post_type=page&p=16&inst=16315949903712065091)
+
+DescriptionThe PMBS24 workshop is concerned with the comparison of high-
+performance computing systems through performance modeling, benchmarking or
+through the use of tools such as simulators. We are particularly interested in
+research which reports the ability to measure and make tradeoffs in
+software/hardware co-design to improve sustained application performance. We
+are also keen to capture the assessment of future systems. The aim of this
+workshop is to bring together researchers, from industry and academia,
+concerned with the qualitative and quantitative evaluation and modeling of
+high-performance computing systems. Authors are invited to submit novel
+research in all areas of performance modeling, benchmarking and simulation,
+and we welcome research that brings together current theory and practice. We
+recognize that the term 'performance' has broadened to include power
+consumption and reliability, and that performance modeling is practiced
+through analytical methods and approaches based on software tools and
+simulators.
+
+Event TypeWorkshop
+
+Time: Monday, 18 November 2024 9am \-  5:30pm EST[](https://sc24.conference-
+program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748)
+
+Location: [B303](https://sc24.conference-
+program.com/?post_type=page&p=20&location=rB303)
+
+Tags
+
+Accelerators
+
+Modeling and Simulation
+
+Performance Evaluation and/or Optimization Tools
+
+Registration Categories
+
+W
+
+Similar Sessions
+
+[2024 International Workshop on Performance, Portability, and Productivity in
+HPC](https://sc24.conference-program.com/?post_type=page&p=15&sess=sess751)
+
+[Eleventh Workshop on Accelerator Programming and Directives (WACCPD
+2024)](https://sc24.conference-program.com/?post_type=page&p=15&sess=sess760)
+
+[Performance Modeling](https://sc24.conference-
+program.com/?post_type=page&p=15&sess=sess378)
+
+Presentations[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf125) 9am \-  9:30am EST| [LLM-Inference-Bench: Inference Benchmarking of Large Language Models on AI Accelerators](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf125&sess=sess748)Author/Presenters[Krishna Teja Chitty-Venkata](https://sc24.conference-program.com/?post_type=page&p=13&uid=464514)[Siddhisanket Raskar](https://sc24.conference-program.com/?post_type=page&p=13&uid=468893)[Bharat Kale](https://sc24.conference-program.com/?post_type=page&p=13&uid=648514)[Farah Ferdaus](https://sc24.conference-program.com/?post_type=page&p=13&uid=424614)[Aditya Tanikanti](https://sc24.conference-program.com/?post_type=page&p=13&uid=524614)[Ken Raffenetti](https://sc24.conference-program.com/?post_type=page&p=13&uid=266104)[Valerie Taylor](https://sc24.conference-program.com/?post_type=page&p=13&uid=138443)[Murali Emani](https://sc24.conference-program.com/?post_type=page&p=13&uid=799183)[Venkatram Vishwanath](https://sc24.conference-program.com/?post_type=page&p=13&uid=786953)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf125)  
+---|---|---|---  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf121) 9:30am \-  10am EST| [Comprehensive Performance Modeling and System Design Insights for Foundation Models](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf121&sess=sess748)Author/Presenters[Shashank Subramanian](https://sc24.conference-program.com/?post_type=page&p=13&uid=988204)[Ermal Rrapaj](https://sc24.conference-program.com/?post_type=page&p=13&uid=089804)[Peter Harrington](https://sc24.conference-program.com/?post_type=page&p=13&uid=810383)[Smeet Chheda](https://sc24.conference-program.com/?post_type=page&p=13&uid=765004)[Steven Farrell](https://sc24.conference-program.com/?post_type=page&p=13&uid=732773)[Brian Austin](https://sc24.conference-program.com/?post_type=page&p=13&uid=083553)[Samuel Williams](https://sc24.conference-program.com/?post_type=page&p=13&uid=944543)[Nicholas Wright](https://sc24.conference-program.com/?post_type=page&p=13&uid=567643)[Wahid Bhimji](https://sc24.conference-program.com/?post_type=page&p=13&uid=724073)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf121)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc145) 10am \-  10:30am EST| [PMBS24 — Morning Break](https://sc24.conference-program.com/?post_type=page&p=14&id=misc145&sess=sess748)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc145)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss109) 10:30am \-  10:50am EST| [System-Wide Roofline Profiling: A Case Study on NERSC’s Perlmutter Supercomputer](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbss109&sess=sess748)Author/Presenters[Brian Austin](https://sc24.conference-program.com/?post_type=page&p=13&uid=083553)[Dhruva Kulkarni](https://sc24.conference-program.com/?post_type=page&p=13&uid=410893)[Brandon Cook](https://sc24.conference-program.com/?post_type=page&p=13&uid=779573)[Samuel Williams](https://sc24.conference-program.com/?post_type=page&p=13&uid=944543)[Nicholas Wright](https://sc24.conference-program.com/?post_type=page&p=13&uid=567643)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss109)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss111) 10:50am \-  11:10am EST| [Microarchitectural Comparison and In-Core Modeling of State-of-the-Art CPUs: Grace, Sapphire Rapids, and Genoa](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbss111&sess=sess748)Author/Presenters[Jan Laukemann](https://sc24.conference-program.com/?post_type=page&p=13&uid=823073)[Georg Hager](https://sc24.conference-program.com/?post_type=page&p=13&uid=205643)[Gerhard Wellein](https://sc24.conference-program.com/?post_type=page&p=13&uid=389653)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss111)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss106) 11:10am \-  11:30am EST| [Benchmarking the Evolution of Performance and Energy Efficiency Across Recent Generations of Intel Xeon Processors](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbss106&sess=sess748)Author/Presenters[Istvan Z. Reguly](https://sc24.conference-program.com/?post_type=page&p=13&uid=258273)[Balázs Drávai](https://sc24.conference-program.com/?post_type=page&p=13&uid=342614)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbss106)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf104) 11:30am \-  12pm EST| [Performance Analysis of Runtime Handling of Zero-Copy for OpenMP Programs on MI300A APUs](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf104&sess=sess748)Author/Presenters[Carlo Bertolli](https://sc24.conference-program.com/?post_type=page&p=13&uid=666453)[Thorsten Blass](https://sc24.conference-program.com/?post_type=page&p=13&uid=672214)[Jan-Patrick Lehr](https://sc24.conference-program.com/?post_type=page&p=13&uid=951904)[Doru Bercea](https://sc24.conference-program.com/?post_type=page&p=13&uid=851904)[Dhruva Chakrabarti](https://sc24.conference-program.com/?post_type=page&p=13&uid=642104)[Lynd Stringer](https://sc24.conference-program.com/?post_type=page&p=13&uid=061904)[Nicole Aschenbrenner](https://sc24.conference-program.com/?post_type=page&p=13&uid=772214)[Lawrence Meadows](https://sc24.conference-program.com/?post_type=page&p=13&uid=872214)[Ron Lieberman](https://sc24.conference-program.com/?post_type=page&p=13&uid=261904)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf104)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf109) 12pm \-  12:30pm EST| [Ponte Vecchio Across the Atlantic: Single-Node Benchmarking of Two Intel GPU Systems](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf109&sess=sess748)Author/Presenters[Thomas Applencourt](https://sc24.conference-program.com/?post_type=page&p=13&uid=130183)[Aditya Sadawarte](https://sc24.conference-program.com/?post_type=page&p=13&uid=322614)[Servesh Muralidharan](https://sc24.conference-program.com/?post_type=page&p=13&uid=422614)[Colleen Bertoni](https://sc24.conference-program.com/?post_type=page&p=13&uid=125473)[JaeHyuk Kwack](https://sc24.conference-program.com/?post_type=page&p=13&uid=858583)[Ye Luo](https://sc24.conference-program.com/?post_type=page&p=13&uid=885763)[Esteban Rangel](https://sc24.conference-program.com/?post_type=page&p=13&uid=865563)[John Tramm](https://sc24.conference-program.com/?post_type=page&p=13&uid=822693)[Yasaman Ghadar](https://sc24.conference-program.com/?post_type=page&p=13&uid=498483)[Arjen Tamerus](https://sc24.conference-program.com/?post_type=page&p=13&uid=230904)[Chris Edsall](https://sc24.conference-program.com/?post_type=page&p=13&uid=269804)[Tom Deakin](https://sc24.conference-program.com/?post_type=page&p=13&uid=821763)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf109)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc146) 12:30pm \-  2pm EST| [PMBS24 — Lunch Break](https://sc24.conference-program.com/?post_type=page&p=14&id=misc146&sess=sess748)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc146)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf108) 2pm \-  2:30pm EST| [Hello SME! Generating Fast Matrix Multiplication Kernels Using the Scalable Matrix Extension](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf108&sess=sess748)Author/Presenters[Stefan Remke](https://sc24.conference-program.com/?post_type=page&p=13&uid=312614)[Alexander Breuer](https://sc24.conference-program.com/?post_type=page&p=13&uid=887393)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf108)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf131) 2:30pm \-  3pm EST| [AI-Assisted Design-Space Analysis of High-Performance Arm Processors](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf131&sess=sess748)Author/Presenters[Joseph Moore](https://sc24.conference-program.com/?post_type=page&p=13&uid=196104)[Tom Deakin](https://sc24.conference-program.com/?post_type=page&p=13&uid=821763)[Simon McIntosh-Smith](https://sc24.conference-program.com/?post_type=page&p=13&uid=969943)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf131)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc147) 3pm \-  3:30pm EST| [PMBS24 — Afternoon Break](https://sc24.conference-program.com/?post_type=page&p=14&id=misc147&sess=sess748)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--misc147)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf128) 3:30pm \-  4pm EST| [Impact of Varying BLAS Precision on DCMESH](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf128&sess=sess748)Author/Presenters[Nariman Piroozan](https://sc24.conference-program.com/?post_type=page&p=13&uid=614904)[John Pennycook](https://sc24.conference-program.com/?post_type=page&p=13&uid=030553)[Taufeq Razakh](https://sc24.conference-program.com/?post_type=page&p=13&uid=157893)[Peter Caday](https://sc24.conference-program.com/?post_type=page&p=13&uid=534614)[Nalini Kumar](https://sc24.conference-program.com/?post_type=page&p=13&uid=863673)[Aiichiro Nakano](https://sc24.conference-program.com/?post_type=page&p=13&uid=186153)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf128)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf101) 4pm \-  4:30pm EST| [Assessing the GPU Offload Threshold of GEMM and GEMV Kernels on Modern Heterogeneous HPC Systems](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf101&sess=sess748)Author/Presenters[Finn Wilkinson](https://sc24.conference-program.com/?post_type=page&p=13&uid=929204)[Alex Cockrean](https://sc24.conference-program.com/?post_type=page&p=13&uid=279514)[Wei-Chen Lin](https://sc24.conference-program.com/?post_type=page&p=13&uid=146583)[Simon McIntosh-Smith](https://sc24.conference-program.com/?post_type=page&p=13&uid=969943)[Tom Deakin](https://sc24.conference-program.com/?post_type=page&p=13&uid=821763)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf101)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf119) 4:30pm \-  5pm EST| [Understanding VASP Power Profiles on NVIDIA A100 GPUs](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf119&sess=sess748)Author/Presenters[Zhengji Zhao](https://sc24.conference-program.com/?post_type=page&p=13&uid=871643)[Brian Austin](https://sc24.conference-program.com/?post_type=page&p=13&uid=083553)[Ermal Rrapaj](https://sc24.conference-program.com/?post_type=page&p=13&uid=089804)[Nicholas Wright](https://sc24.conference-program.com/?post_type=page&p=13&uid=567643)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf119)  
+[](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf106) 5pm \-  5:30pm EST| [Workload-Adaptive Scheduling for Efficient Use of Parallel File Systems in High-Performance Computing Clusters](https://sc24.conference-program.com/?post_type=page&p=14&id=ws_pmbsf106&sess=sess748)Author/Presenters[Alexander Goponenko](https://sc24.conference-program.com/?post_type=page&p=13&uid=971614)[Benjamin Allan](https://sc24.conference-program.com/?post_type=page&p=13&uid=009263)[James Brandt](https://sc24.conference-program.com/?post_type=page&p=13&uid=096443)[Damian Dechev](https://sc24.conference-program.com/?post_type=page&p=13&uid=181614)| | [](https://sc24.conference-program.com/wp-content/plugins/linklings_wp_program/get_cal/?id=sess748--ws_pmbsf106)  
+  
+Back to top
+
+Powered by [Linklings](https://linklings.com/)
+
